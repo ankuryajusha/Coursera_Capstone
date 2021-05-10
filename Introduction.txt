@@ -1,0 +1,10 @@
+Introduction:
+This project will explore the area around a residential area based on the most popular locations in the area.
+This location data will be used to create a model and cluster the locations.
+Location data of most popular locations in another city will be explored.
+
+The same model created earlier will be used to cluster the locations in the other city.
+
+This will enable us to define which areas in the other city are most similar to the residential area in the first city.
+
+If any person is moving to other city, they will be able to see the similar areas as in the first city.
